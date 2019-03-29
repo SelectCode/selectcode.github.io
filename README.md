@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Make every line count
 
-You can use the [editor on GitHub](https://github.com/SelectCode/selectcode.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## success stories
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Econap** -  *powernaps for you pc*
+Econap is an innovative energy saving software for Windows. The standby is activated exactly when the PC is not busy. This saves time and energy. Developed with **WPF** , **C#** and **.NET** .
 
-### Markdown
+### children series - the quiz
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Quiz App where children's series have to be guessed from their intro songs. Native Android App with **Kotlin**.
 
-```markdown
-Syntax highlighted code block
+### BoxPlanner Mobile
 
-# Header 1
-## Header 2
-### Header 3
+Mobile front end for booking and managing courses in the gym based on **Xamarin**.
 
-- Bulleted
-- List
+## your project @ selectcode
 
-1. Numbered
-2. List
+You have a brilliant idea for a new application or website? A digitalisation project waiting to be implemented?
 
-**Bold** and _Italic_ and `Code` text
+**We can help!**
 
-[Link](url) and ![Image](src)
-```
+### agile methods
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We work according to agile principles - this guarantees flexibility and fast results. We rely on a modern, secure infrastructure with which we test and provide software automatically.
 
-### Jekyll Themes
+### modern technologies
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SelectCode/selectcode.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our strengths lie above all in the development of mobile apps and desktop applications. Modern cloud development is part of our repertoire. In addition, we like to learn new things and always keep our finger on the pulse of the times.
 
-### Support or Contact
+### teamwork
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+With only three developers, we're only a small team, but we're all the more well-rehearsed. That's why we are extremely flexible and always looking forward to new challenges.
